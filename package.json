@@ -1,0 +1,28 @@
+{
+  "name": "whisperai",
+  "version": "1.0.0",
+  "description": "Audio transcription and sentiment analysis using WhisperAI and GPT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/multer": "^1.4.11",
+    "@types/node": "^20.11.19",
+    "@types/react": "^18.2.57",
+    "@types/react-dom": "^18.2.19",
+    "autoprefixer": "^10.4.17",
+    "multer": "^1.4.5-lts.1",
+    "next": "^14.1.0",
+    "openai": "^4.28.0",
+    "openai-edge": "^1.2.2",
+    "postcss": "^8.4.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  }
+} 
